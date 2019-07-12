@@ -1,0 +1,1080 @@
+2019-07-08 12:28:44 INFO  TestBase:36 - Initiate Browser
+2019-07-08 12:28:52 INFO  TestBase:42 - Browser Initiated
+2019-07-08 12:28:52 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 12:28:52 INFO  addRecruitment:21 - DashBoardPage is menu CLick
+2019-07-08 12:28:52 INFO  addRecruitment:24 - testtttttt
+2019-07-08 12:28:53 INFO  addRecruitment:26 - DashBoardPage is menu CLick
+2019-07-08 12:28:53 INFO  addRecruitment:29 - DashBoardPage is menu CLick
+2019-07-08 12:28:53 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@3b084709] output={null}]
+2019-07-08 12:28:54 INFO  TestBase:63 - Closing Browser
+2019-07-08 12:28:54 INFO  TestBase:65 - Browser Closed
+2019-07-08 13:43:58 INFO  TestBase:36 - Initiate Browser
+2019-07-08 13:44:07 INFO  TestBase:42 - Browser Initiated
+2019-07-08 13:44:07 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 13:44:07 INFO  addRecruitment:21 - DashBoardPage is menu CLick
+2019-07-08 13:44:07 INFO  addRecruitment:24 - successful recruitment menu
+2019-07-08 13:44:07 INFO  addRecruitment:26 - Addrecruitment btn click
+2019-07-08 13:44:08 INFO  addRecruitment:29 - sent the key
+2019-07-08 13:44:08 INFO  addRecruitment:31 - Successful add button
+2019-07-08 13:44:08 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@3b084709] output={null}]
+2019-07-08 13:44:09 INFO  TestBase:63 - Closing Browser
+2019-07-08 13:44:09 INFO  TestBase:65 - Browser Closed
+2019-07-08 13:56:41 INFO  TestBase:36 - Initiate Browser
+2019-07-08 13:56:49 INFO  TestBase:42 - Browser Initiated
+2019-07-08 13:56:49 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 13:56:50 INFO  addRecruitment:21 - DashBoardPage is menu CLick
+2019-07-08 13:56:50 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=FAILURE method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@3b084709] output={null}]
+2019-07-08 13:59:16 INFO  TestBase:36 - Initiate Browser
+2019-07-08 13:59:23 INFO  TestBase:42 - Browser Initiated
+2019-07-08 13:59:23 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 13:59:23 INFO  addRecruitment:21 - DashBoardPage is menu CLick
+2019-07-08 13:59:23 INFO  addRecruitment:24 - successful recruitment menu
+2019-07-08 13:59:23 INFO  addRecruitment:26 - Addrecruitment btn click
+2019-07-08 13:59:24 INFO  addRecruitment:29 - sent the key
+2019-07-08 13:59:24 INFO  addRecruitment:31 - Successful add button
+2019-07-08 13:59:24 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@3b084709] output={null}]
+2019-07-08 13:59:25 INFO  TestBase:63 - Closing Browser
+2019-07-08 13:59:25 INFO  TestBase:65 - Browser Closed
+2019-07-08 14:17:02 INFO  TestBase:36 - Initiate Browser
+2019-07-08 14:17:09 INFO  TestBase:42 - Browser Initiated
+2019-07-08 14:17:09 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 14:17:09 INFO  addRecruitment:21 - DashBoardPage is menu CLick
+2019-07-08 14:17:09 INFO  addRecruitment:24 - successful recruitment menu
+2019-07-08 14:17:10 INFO  addRecruitment:26 - Addrecruitment btn successful
+2019-07-08 14:17:10 INFO  addRecruitment:30 - successful sendkey
+2019-07-08 14:17:10 INFO  addRecruitment:32 - Successful add button
+2019-07-08 14:17:10 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@3b084709] output={null}]
+2019-07-08 14:17:11 INFO  TestBase:63 - Closing Browser
+2019-07-08 14:17:11 INFO  TestBase:65 - Browser Closed
+2019-07-08 14:44:50 INFO  TestBase:36 - Initiate Browser
+2019-07-08 14:44:57 INFO  TestBase:42 - Browser Initiated
+2019-07-08 14:44:57 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 14:44:57 INFO  addRecruitment:22 - DashBoardPage is menu CLick
+2019-07-08 14:44:57 INFO  addRecruitment:25 - successful recruitment menu
+2019-07-08 14:44:58 INFO  addRecruitment:27 - Addrecruitment btn successful
+2019-07-08 14:44:58 INFO  addRecruitment:29 - successful sendkey
+2019-07-08 14:44:58 INFO  addRecruitment:31 - Successful add button
+2019-07-08 14:44:58 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@22a67b4] output={null}]
+2019-07-08 14:44:59 INFO  TestBase:63 - Closing Browser
+2019-07-08 14:44:59 INFO  TestBase:65 - Browser Closed
+2019-07-08 14:49:33 INFO  TestBase:36 - Initiate Browser
+2019-07-08 14:49:40 INFO  TestBase:42 - Browser Initiated
+2019-07-08 14:49:40 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 14:49:40 INFO  addRecruitment:21 - DashBoardPage is menu CLick
+2019-07-08 14:49:40 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=FAILURE method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@22a67b4] output={null}]
+2019-07-08 14:52:51 INFO  TestBase:36 - Initiate Browser
+2019-07-08 14:52:58 INFO  TestBase:42 - Browser Initiated
+2019-07-08 14:52:58 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 14:52:59 INFO  addRecruitment:21 - DashBoardPage is menu CLick
+2019-07-08 14:52:59 INFO  addRecruitment:26 - successful recruitment menu
+2019-07-08 14:52:59 INFO  addRecruitment:28 - recruitment page didplied successful
+2019-07-08 14:52:59 INFO  addRecruitment:30 - Addrecruitment btn successful
+2019-07-08 14:52:59 INFO  addRecruitment:32 - successful sendkey
+2019-07-08 14:53:00 INFO  addRecruitment:34 - Successful add button
+2019-07-08 14:53:00 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@3b084709] output={null}]
+2019-07-08 14:53:00 INFO  TestBase:63 - Closing Browser
+2019-07-08 14:53:00 INFO  TestBase:65 - Browser Closed
+2019-07-08 15:55:36 INFO  TestBase:36 - Initiate Browser
+2019-07-08 15:55:42 INFO  TestBase:42 - Browser Initiated
+2019-07-08 15:55:42 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 15:55:42 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=FAILURE method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@3b084709] output={null}]
+2019-07-08 16:13:29 INFO  TestBase:36 - Initiate Browser
+2019-07-08 16:13:36 INFO  TestBase:42 - Browser Initiated
+2019-07-08 16:13:36 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 16:13:36 INFO  addRecruitment:21 - DashBoardPage is menu CLick
+2019-07-08 16:13:36 INFO  addRecruitment:25 - successful recruitment menu
+2019-07-08 16:13:36 INFO  addRecruitment:27 - recruitment page didplied successful
+2019-07-08 16:13:36 INFO  addRecruitment:29 - Addrecruitment btn successful
+2019-07-08 16:13:36 INFO  addRecruitment:31 - successful sendkey
+2019-07-08 16:13:36 INFO  addRecruitment:33 - Successful add button
+2019-07-08 16:13:36 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@3b084709] output={null}]
+2019-07-08 16:13:37 INFO  TestBase:63 - Closing Browser
+2019-07-08 16:13:37 INFO  TestBase:65 - Browser Closed
+2019-07-08 16:21:25 INFO  TestBase:36 - Initiate Browser
+2019-07-08 16:21:32 INFO  TestBase:42 - Browser Initiated
+2019-07-08 16:21:32 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 16:21:32 INFO  addRecruitment:21 - DashBoardPage is menu CLick
+2019-07-08 16:21:32 INFO  addRecruitment:25 - successful recruitment menu
+2019-07-08 16:21:32 INFO  addRecruitment:27 - recruitment page didplied successful
+2019-07-08 16:21:32 INFO  addRecruitment:29 - Addrecruitment btn successful
+2019-07-08 16:21:32 INFO  addRecruitment:31 - successful sendkey
+2019-07-08 16:21:32 INFO  addRecruitment:33 - Successful add button
+2019-07-08 16:21:32 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@6321e813] output={null}]
+2019-07-08 16:21:33 INFO  TestBase:63 - Closing Browser
+2019-07-08 16:21:33 INFO  TestBase:65 - Browser Closed
+2019-07-08 17:01:39 INFO  TestBase:36 - Initiate Browser
+2019-07-08 17:01:45 INFO  TestBase:42 - Browser Initiated
+2019-07-08 17:01:45 INFO  TestBase:53 - Test name: addLeavetype
+2019-07-08 17:01:45 INFO  AddleaveTest:17 - Successful click
+2019-07-08 17:01:45 INFO  AddleaveTest:19 - Successful sub menu
+2019-07-08 17:01:45 INFO  TestBase:72 - Executed test case name:addLeavetype Execution Results : [TestResult name=addLeavetype status=SUCCESS method=AddleaveTest.addLeavetype()[pri:0, instance:com.sgic.automation.leavesystem.tests.leavetepyTest.AddleaveTest@3b084709] output={null}]
+2019-07-08 17:01:45 INFO  TestBase:63 - Closing Browser
+2019-07-08 17:01:45 INFO  TestBase:65 - Browser Closed
+2019-07-08 17:01:57 INFO  TestBase:36 - Initiate Browser
+2019-07-08 17:02:03 INFO  TestBase:42 - Browser Initiated
+2019-07-08 17:02:03 INFO  TestBase:53 - Test name: addLeavetype
+2019-07-08 17:02:03 INFO  AddleaveTest:17 - Successful click
+2019-07-08 17:02:03 INFO  AddleaveTest:19 - Successful sub menu
+2019-07-08 17:02:03 INFO  TestBase:72 - Executed test case name:addLeavetype Execution Results : [TestResult name=addLeavetype status=SUCCESS method=AddleaveTest.addLeavetype()[pri:0, instance:com.sgic.automation.leavesystem.tests.leavetepyTest.AddleaveTest@3b084709] output={null}]
+2019-07-08 17:02:03 INFO  TestBase:63 - Closing Browser
+2019-07-08 17:02:03 INFO  TestBase:65 - Browser Closed
+2019-07-08 17:06:25 INFO  TestBase:36 - Initiate Browser
+2019-07-08 17:06:32 INFO  TestBase:42 - Browser Initiated
+2019-07-08 17:06:32 INFO  TestBase:53 - Test name: addLeavetype
+2019-07-08 17:06:32 INFO  AddleaveTest:17 - Successful click
+2019-07-08 17:06:32 INFO  AddleaveTest:19 - Successful sub menu
+2019-07-08 17:06:32 INFO  TestBase:72 - Executed test case name:addLeavetype Execution Results : [TestResult name=addLeavetype status=SUCCESS method=AddleaveTest.addLeavetype()[pri:0, instance:com.sgic.automation.leavesystem.tests.leavetepyTest.AddleaveTest@3b084709] output={null}]
+2019-07-08 17:06:32 INFO  TestBase:63 - Closing Browser
+2019-07-08 17:06:32 INFO  TestBase:65 - Browser Closed
+2019-07-08 17:07:23 INFO  TestBase:36 - Initiate Browser
+2019-07-08 17:07:28 INFO  TestBase:42 - Browser Initiated
+2019-07-08 17:07:28 INFO  TestBase:53 - Test name: addLeavetype
+2019-07-08 17:07:28 INFO  AddleaveTest:17 - Successful click
+2019-07-08 17:07:29 INFO  AddleaveTest:19 - Successful sub menu
+2019-07-08 17:07:29 INFO  TestBase:72 - Executed test case name:addLeavetype Execution Results : [TestResult name=addLeavetype status=SUCCESS method=AddleaveTest.addLeavetype()[pri:0, instance:com.sgic.automation.leavesystem.tests.leavetepyTest.AddleaveTest@22a67b4] output={null}]
+2019-07-08 17:07:29 INFO  TestBase:63 - Closing Browser
+2019-07-08 17:07:29 INFO  TestBase:65 - Browser Closed
+2019-07-08 17:11:47 INFO  TestBase:36 - Initiate Browser
+2019-07-08 17:11:51 INFO  TestBase:42 - Browser Initiated
+2019-07-08 17:11:51 INFO  TestBase:53 - Test name: addLeavetype
+2019-07-08 17:11:56 INFO  TestBase:72 - Executed test case name:addLeavetype Execution Results : [TestResult name=addLeavetype status=FAILURE method=AddleaveTest.addLeavetype()[pri:0, instance:com.sgic.automation.leavesystem.tests.leavetepyTest.AddleaveTest@22a67b4] output={null}]
+2019-07-08 17:11:57 INFO  TestBase:36 - Initiate Browser
+2019-07-08 17:12:00 INFO  TestBase:42 - Browser Initiated
+2019-07-08 17:12:00 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 17:12:06 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=FAILURE method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@57855c9a] output={null}]
+2019-07-08 17:13:04 INFO  TestBase:36 - Initiate Browser
+2019-07-08 17:13:11 INFO  TestBase:42 - Browser Initiated
+2019-07-08 17:13:11 INFO  TestBase:53 - Test name: addLeavetype
+2019-07-08 17:13:11 INFO  AddleaveTest:17 - Successful click
+2019-07-08 17:13:11 INFO  AddleaveTest:19 - Successful sub menu
+2019-07-08 17:13:11 INFO  TestBase:72 - Executed test case name:addLeavetype Execution Results : [TestResult name=addLeavetype status=SUCCESS method=AddleaveTest.addLeavetype()[pri:0, instance:com.sgic.automation.leavesystem.tests.leavetepyTest.AddleaveTest@22a67b4] output={null}]
+2019-07-08 17:13:12 INFO  TestBase:63 - Closing Browser
+2019-07-08 17:13:12 INFO  TestBase:65 - Browser Closed
+2019-07-08 17:13:12 INFO  TestBase:36 - Initiate Browser
+2019-07-08 17:13:18 INFO  TestBase:42 - Browser Initiated
+2019-07-08 17:13:18 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 17:13:18 INFO  addRecruitment:21 - DashBoardPage is menu CLick
+2019-07-08 17:13:18 INFO  addRecruitment:25 - successful recruitment menu
+2019-07-08 17:13:18 INFO  addRecruitment:27 - recruitment page didplied successful
+2019-07-08 17:13:18 INFO  addRecruitment:29 - Addrecruitment btn successful
+2019-07-08 17:13:18 INFO  addRecruitment:31 - successful sendkey
+2019-07-08 17:13:18 INFO  addRecruitment:33 - Successful add button
+2019-07-08 17:13:18 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@57855c9a] output={null}]
+2019-07-08 17:13:19 INFO  TestBase:63 - Closing Browser
+2019-07-08 17:13:19 INFO  TestBase:65 - Browser Closed
+2019-07-08 17:15:09 INFO  TestBase:36 - Initiate Browser
+2019-07-08 17:15:15 INFO  TestBase:42 - Browser Initiated
+2019-07-08 17:15:15 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 17:15:15 INFO  addRecruitment:21 - DashBoardPage is menu CLick
+2019-07-08 17:15:15 INFO  addRecruitment:25 - successful recruitment menu
+2019-07-08 17:15:15 INFO  addRecruitment:27 - recruitment page didplied successful
+2019-07-08 17:15:15 INFO  addRecruitment:29 - Addrecruitment btn successful
+2019-07-08 17:15:15 INFO  addRecruitment:31 - successful sendkey
+2019-07-08 17:15:15 INFO  addRecruitment:33 - Successful add button
+2019-07-08 17:15:15 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@6321e813] output={null}]
+2019-07-08 17:15:16 INFO  TestBase:63 - Closing Browser
+2019-07-08 17:15:16 INFO  TestBase:65 - Browser Closed
+2019-07-08 17:22:21 INFO  TestBase:36 - Initiate Browser
+2019-07-08 17:22:27 INFO  TestBase:42 - Browser Initiated
+2019-07-08 17:22:27 INFO  TestBase:53 - Test name: addLeavetype
+2019-07-08 17:22:27 INFO  AddleaveTest:17 - Successful click
+2019-07-08 17:22:27 INFO  AddleaveTest:19 - Successful sub menu
+2019-07-08 17:22:27 INFO  TestBase:72 - Executed test case name:addLeavetype Execution Results : [TestResult name=addLeavetype status=SUCCESS method=AddleaveTest.addLeavetype()[pri:0, instance:com.sgic.automation.leavesystem.tests.leavetepyTest.AddleaveTest@cd2dae5] output={null}]
+2019-07-08 17:22:28 INFO  TestBase:63 - Closing Browser
+2019-07-08 17:22:28 INFO  TestBase:65 - Browser Closed
+2019-07-08 17:22:28 INFO  TestBase:36 - Initiate Browser
+2019-07-08 17:22:34 INFO  TestBase:42 - Browser Initiated
+2019-07-08 17:22:34 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-08 17:22:34 INFO  addRecruitment:21 - DashBoardPage is menu CLick
+2019-07-08 17:22:34 INFO  addRecruitment:25 - successful recruitment menu
+2019-07-08 17:22:34 INFO  addRecruitment:27 - recruitment page didplied successful
+2019-07-08 17:22:34 INFO  addRecruitment:29 - Addrecruitment btn successful
+2019-07-08 17:22:34 INFO  addRecruitment:31 - successful sendkey
+2019-07-08 17:22:34 INFO  addRecruitment:33 - Successful add button
+2019-07-08 17:22:34 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@3a883ce7] output={null}]
+2019-07-08 17:22:35 INFO  TestBase:63 - Closing Browser
+2019-07-08 17:22:35 INFO  TestBase:65 - Browser Closed
+2019-07-08 17:23:50 INFO  TestBase:36 - Initiate Browser
+2019-07-08 17:23:56 INFO  TestBase:42 - Browser Initiated
+2019-07-08 17:23:56 INFO  TestBase:53 - Test name: editBtn
+2019-07-08 17:23:56 INFO  editRecruitment:18 - DashBoardPage is menu CLick
+2019-07-08 17:23:56 INFO  editRecruitment:22 - successful click recruitment menu
+2019-07-08 17:23:56 INFO  editRecruitment:24 - recruitment page didplied successful
+2019-07-08 17:24:01 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=FAILURE method=editRecruitment.editBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.editRecruitment@6321e813] output={null}]
+2019-07-08 17:30:13 INFO  TestBase:36 - Initiate Browser
+2019-07-08 17:30:20 INFO  TestBase:42 - Browser Initiated
+2019-07-08 17:30:20 INFO  TestBase:53 - Test name: editBtn
+2019-07-08 17:30:20 INFO  editRecruitment:19 - DashBoardPage is menu CLick
+2019-07-08 17:30:20 INFO  editRecruitment:23 - successful click recruitment menu
+2019-07-08 17:30:20 INFO  editRecruitment:25 - recruitment page didplied successful
+2019-07-08 17:30:25 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=FAILURE method=editRecruitment.editBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.editRecruitment@6321e813] output={null}]
+2019-07-10 14:46:31 INFO  TestBase:36 - Initiate Browser
+2019-07-10 14:47:46 INFO  TestBase:36 - Initiate Browser
+2019-07-10 14:47:54 INFO  TestBase:42 - Browser Initiated
+2019-07-10 14:47:54 INFO  TestBase:53 - Test name: editBtn
+2019-07-10 14:47:54 INFO  editRecruitment:19 - DashBoardPage is menu CLick
+2019-07-10 14:47:54 INFO  editRecruitment:23 - successful click recruitment menu
+2019-07-10 14:47:54 INFO  editRecruitment:25 - recruitment page didplied successful
+2019-07-10 14:47:55 INFO  editRecruitment:27 - Change the recruitment Type
+2019-07-10 14:47:55 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=SUCCESS method=editRecruitment.editBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.editRecruitment@3a883ce7] output={null}]
+2019-07-10 14:47:55 INFO  TestBase:63 - Closing Browser
+2019-07-10 14:47:55 INFO  TestBase:65 - Browser Closed
+2019-07-10 14:52:41 INFO  TestBase:36 - Initiate Browser
+2019-07-10 14:52:49 INFO  TestBase:42 - Browser Initiated
+2019-07-10 14:52:49 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-10 14:52:50 INFO  addRecruitment:21 - DashBoardPage is menu CLick
+2019-07-10 14:52:50 INFO  addRecruitment:25 - successful recruitment menu
+2019-07-10 14:52:50 INFO  addRecruitment:27 - recruitment page didplied successful
+2019-07-10 14:52:50 INFO  addRecruitment:29 - Addrecruitment btn successful
+2019-07-10 14:52:50 INFO  addRecruitment:31 - successful sendkey
+2019-07-10 14:52:51 INFO  addRecruitment:33 - Successful add button
+2019-07-10 14:52:51 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@6321e813] output={null}]
+2019-07-10 14:52:51 INFO  TestBase:63 - Closing Browser
+2019-07-10 14:52:51 INFO  TestBase:65 - Browser Closed
+2019-07-10 14:53:23 INFO  TestBase:36 - Initiate Browser
+2019-07-10 14:53:33 INFO  TestBase:42 - Browser Initiated
+2019-07-10 14:53:33 INFO  TestBase:53 - Test name: editBtn
+2019-07-10 14:53:33 INFO  editRecruitment:19 - DashBoardPage is menu CLick
+2019-07-10 14:53:34 INFO  editRecruitment:23 - successful click recruitment menu
+2019-07-10 14:53:34 INFO  editRecruitment:25 - recruitment page didplied successful
+2019-07-10 14:53:34 INFO  editRecruitment:27 - Click edit recruitment
+2019-07-10 14:53:34 INFO  editRecruitment:29 - Successful sendkey
+2019-07-10 14:53:39 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=FAILURE method=editRecruitment.editBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.editRecruitment@3a883ce7] output={null}]
+2019-07-11 11:01:08 INFO  TestBase:36 - Initiate Browser
+2019-07-11 11:01:17 INFO  TestBase:42 - Browser Initiated
+2019-07-11 11:01:17 INFO  TestBase:53 - Test name: editBtn
+2019-07-11 11:01:18 INFO  editRecruitment:19 - DashBoardPage is menu CLick
+2019-07-11 11:01:18 INFO  editRecruitment:23 - successful click recruitment menu
+2019-07-11 11:01:18 INFO  editRecruitment:25 - recruitment page didplied successful
+2019-07-11 11:01:18 INFO  editRecruitment:27 - Click edit recruitment
+2019-07-11 11:01:18 INFO  editRecruitment:29 - Successful clear
+2019-07-11 11:01:19 INFO  editRecruitment:31 - Successful sendkey
+2019-07-11 11:01:24 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=FAILURE method=editRecruitment.editBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.editRecruitment@6321e813] output={null}]
+2019-07-11 11:05:52 INFO  TestBase:36 - Initiate Browser
+2019-07-11 11:05:59 INFO  TestBase:42 - Browser Initiated
+2019-07-11 11:05:59 INFO  TestBase:53 - Test name: editBtn
+2019-07-11 11:05:59 INFO  editRecruitment:19 - DashBoardPage is menu CLick
+2019-07-11 11:06:00 INFO  editRecruitment:23 - successful click recruitment menu
+2019-07-11 11:06:00 INFO  editRecruitment:25 - recruitment page didplied successful
+2019-07-11 11:06:00 INFO  editRecruitment:27 - Click edit recruitment
+2019-07-11 11:06:00 INFO  editRecruitment:29 - Successful clear
+2019-07-11 11:06:00 INFO  editRecruitment:31 - Successful sendkey
+2019-07-11 11:06:01 INFO  editRecruitment:33 - Successful edit
+2019-07-11 11:06:01 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=SUCCESS method=editRecruitment.editBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.editRecruitment@6321e813] output={null}]
+2019-07-11 11:06:01 INFO  TestBase:63 - Closing Browser
+2019-07-11 11:06:01 INFO  TestBase:65 - Browser Closed
+2019-07-11 11:23:12 INFO  TestBase:36 - Initiate Browser
+2019-07-11 11:23:20 INFO  TestBase:42 - Browser Initiated
+2019-07-11 11:23:20 INFO  TestBase:53 - Test name: editBtn
+2019-07-11 11:23:20 INFO  editRecruitment:20 - DashBoardPage is menu CLick
+2019-07-11 11:23:21 INFO  editRecruitment:24 - successful click recruitment menu
+2019-07-11 11:23:21 INFO  editRecruitment:26 - recruitment page didplied successful
+2019-07-11 11:23:21 INFO  editRecruitment:29 - Click edit recruitment
+2019-07-11 11:23:21 INFO  editRecruitment:31 - Successful clear
+2019-07-11 11:23:21 INFO  editRecruitment:33 - Successful sendkey
+2019-07-11 11:23:21 INFO  editRecruitment:35 - Successful edit
+2019-07-11 11:23:21 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=SUCCESS method=editRecruitment.editBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.editRecruitment@6321e813] output={null}]
+2019-07-11 11:23:22 INFO  TestBase:63 - Closing Browser
+2019-07-11 11:23:22 INFO  TestBase:65 - Browser Closed
+2019-07-11 11:24:59 INFO  TestBase:36 - Initiate Browser
+2019-07-11 11:25:06 INFO  TestBase:42 - Browser Initiated
+2019-07-11 11:25:06 INFO  TestBase:53 - Test name: addLeavetype
+2019-07-11 11:25:06 INFO  AddleaveTest:17 - Successful click
+2019-07-11 11:25:06 INFO  AddleaveTest:19 - Successful sub menu
+2019-07-11 11:25:06 INFO  TestBase:72 - Executed test case name:addLeavetype Execution Results : [TestResult name=addLeavetype status=SUCCESS method=AddleaveTest.addLeavetype()[pri:0, instance:com.sgic.automation.leavesystem.tests.leavetepyTest.AddleaveTest@3d99d22e] output={null}]
+2019-07-11 11:25:07 INFO  TestBase:63 - Closing Browser
+2019-07-11 11:25:07 INFO  TestBase:65 - Browser Closed
+2019-07-11 12:24:19 INFO  TestBase:36 - Initiate Browser
+2019-07-11 12:24:25 INFO  TestBase:42 - Browser Initiated
+2019-07-11 12:24:25 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-11 12:24:25 INFO  addRecruitment:20 - DashBoardPage is menu CLick
+2019-07-11 12:24:26 INFO  addRecruitment:24 - successful recruitment menu
+2019-07-11 12:24:26 INFO  addRecruitment:26 - recruitment page didplied successful
+2019-07-11 12:24:26 INFO  addRecruitment:28 - Addrecruitment btn successful
+2019-07-11 12:24:26 INFO  addRecruitment:30 - successful sendkey
+2019-07-11 12:24:26 INFO  addRecruitment:32 - Successful add button
+2019-07-11 12:24:26 INFO  addRecruitment:34 - Successful get text
+2019-07-11 12:24:26 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@6321e813] output={null}]
+2019-07-11 12:24:27 INFO  TestBase:63 - Closing Browser
+2019-07-11 12:24:27 INFO  TestBase:65 - Browser Closed
+2019-07-11 12:41:48 INFO  TestBase:36 - Initiate Browser
+2019-07-11 12:41:54 INFO  TestBase:42 - Browser Initiated
+2019-07-11 12:41:54 INFO  TestBase:53 - Test name: CloseTest
+2019-07-11 12:41:54 INFO  closeRecruitmentTest:18 - DashBoardPage is menu CLick
+2019-07-11 12:41:54 INFO  closeRecruitmentTest:22 - successful recruitment menu
+2019-07-11 12:41:54 INFO  closeRecruitmentTest:24 - recruitment page didplied successful
+2019-07-11 12:41:55 INFO  closeRecruitmentTest:26 - Addrecruitment btn successful
+2019-07-11 12:41:55 INFO  closeRecruitmentTest:28 - successful sendkey
+2019-07-11 12:41:55 INFO  closeRecruitmentTest:30 - successful close btn
+2019-07-11 12:41:55 INFO  TestBase:72 - Executed test case name:CloseTest Execution Results : [TestResult name=CloseTest status=SUCCESS method=closeRecruitmentTest.CloseTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.closeRecruitmentTest@3b084709] output={null}]
+2019-07-11 12:41:55 INFO  TestBase:63 - Closing Browser
+2019-07-11 12:41:55 INFO  TestBase:65 - Browser Closed
+2019-07-11 12:42:36 INFO  TestBase:36 - Initiate Browser
+2019-07-11 12:42:42 INFO  TestBase:42 - Browser Initiated
+2019-07-11 12:42:42 INFO  TestBase:53 - Test name: CloseTest
+2019-07-11 12:42:42 INFO  closeRecruitmentTest:18 - DashBoardPage is menu CLick
+2019-07-11 12:42:43 INFO  closeRecruitmentTest:22 - successful recruitment menu
+2019-07-11 12:42:43 INFO  closeRecruitmentTest:24 - recruitment page didplied successful
+2019-07-11 12:42:43 INFO  closeRecruitmentTest:26 - Addrecruitment btn successful
+2019-07-11 12:42:43 INFO  closeRecruitmentTest:28 - successful sendkey
+2019-07-11 12:42:43 INFO  closeRecruitmentTest:30 - successful close btn
+2019-07-11 12:42:43 INFO  TestBase:72 - Executed test case name:CloseTest Execution Results : [TestResult name=CloseTest status=SUCCESS method=closeRecruitmentTest.CloseTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.closeRecruitmentTest@3b084709] output={null}]
+2019-07-11 12:42:44 INFO  TestBase:63 - Closing Browser
+2019-07-11 12:42:44 INFO  TestBase:65 - Browser Closed
+2019-07-11 12:56:57 INFO  TestBase:36 - Initiate Browser
+2019-07-11 12:57:04 INFO  TestBase:42 - Browser Initiated
+2019-07-11 12:57:04 INFO  TestBase:53 - Test name: CloseTest
+2019-07-11 12:57:04 INFO  addRecruitment:75 - DashBoardPage is menu CLick
+2019-07-11 12:57:04 INFO  addRecruitment:79 - successful recruitment menu
+2019-07-11 12:57:04 INFO  addRecruitment:81 - recruitment page didplied successful
+2019-07-11 12:57:04 INFO  addRecruitment:83 - Addrecruitment btn successful
+2019-07-11 12:57:04 INFO  addRecruitment:85 - successful sendkey
+2019-07-11 12:57:04 INFO  addRecruitment:87 - successful close btn
+2019-07-11 12:57:04 INFO  TestBase:72 - Executed test case name:CloseTest Execution Results : [TestResult name=CloseTest status=SUCCESS method=addRecruitment.CloseTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@6321e813] output={null}]
+2019-07-11 12:57:05 INFO  TestBase:63 - Closing Browser
+2019-07-11 12:57:05 INFO  TestBase:65 - Browser Closed
+2019-07-11 12:57:05 INFO  TestBase:36 - Initiate Browser
+2019-07-11 12:57:11 INFO  TestBase:42 - Browser Initiated
+2019-07-11 12:57:11 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-11 12:57:11 INFO  addRecruitment:21 - DashBoardPage is menu CLick
+2019-07-11 12:57:11 INFO  addRecruitment:25 - successful recruitment menu
+2019-07-11 12:57:11 INFO  addRecruitment:27 - recruitment page didplied successful
+2019-07-11 12:57:11 INFO  addRecruitment:29 - Addrecruitment btn successful
+2019-07-11 12:57:11 INFO  addRecruitment:31 - successful sendkey
+2019-07-11 12:57:11 INFO  addRecruitment:33 - Successful add button
+2019-07-11 12:57:11 INFO  addRecruitment:35 - Successful get text
+2019-07-11 12:57:11 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=addRecruitment.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@6321e813] output={null}]
+2019-07-11 12:57:12 INFO  TestBase:63 - Closing Browser
+2019-07-11 12:57:12 INFO  TestBase:65 - Browser Closed
+2019-07-11 12:57:12 INFO  TestBase:36 - Initiate Browser
+2019-07-11 12:57:17 INFO  TestBase:42 - Browser Initiated
+2019-07-11 12:57:17 INFO  TestBase:53 - Test name: editBtn
+2019-07-11 12:57:17 INFO  addRecruitment:47 - DashBoardPage is menu CLick
+2019-07-11 12:57:17 INFO  addRecruitment:51 - successful click recruitment menu
+2019-07-11 12:57:18 INFO  addRecruitment:53 - recruitment page didplied successful
+2019-07-11 12:57:18 INFO  addRecruitment:56 - Click edit recruitment
+2019-07-11 12:57:18 INFO  addRecruitment:58 - Successful clear
+2019-07-11 12:57:18 INFO  addRecruitment:60 - Successful sendkey
+2019-07-11 12:57:18 INFO  addRecruitment:62 - Successful edit
+2019-07-11 12:57:18 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=SUCCESS method=addRecruitment.editBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.addRecruitment@6321e813] output={null}]
+2019-07-11 12:57:19 INFO  TestBase:63 - Closing Browser
+2019-07-11 12:57:19 INFO  TestBase:65 - Browser Closed
+2019-07-11 13:34:19 INFO  TestBase:36 - Initiate Browser
+2019-07-11 13:34:25 INFO  TestBase:42 - Browser Initiated
+2019-07-11 13:34:25 INFO  TestBase:53 - Test name: CloseTest
+2019-07-11 13:34:25 INFO  recruitmentTest:75 - DashBoardPage is menu CLick
+2019-07-11 13:34:25 INFO  recruitmentTest:79 - successful recruitment menu
+2019-07-11 13:34:25 INFO  recruitmentTest:81 - recruitment page didplied successful
+2019-07-11 13:34:25 INFO  recruitmentTest:83 - Addrecruitment btn successful
+2019-07-11 13:34:26 INFO  recruitmentTest:85 - successful sendkey
+2019-07-11 13:34:26 INFO  recruitmentTest:87 - successful close btn
+2019-07-11 13:34:26 INFO  TestBase:72 - Executed test case name:CloseTest Execution Results : [TestResult name=CloseTest status=SUCCESS method=recruitmentTest.CloseTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 13:34:26 INFO  TestBase:63 - Closing Browser
+2019-07-11 13:34:26 INFO  TestBase:65 - Browser Closed
+2019-07-11 13:34:26 INFO  TestBase:36 - Initiate Browser
+2019-07-11 13:34:32 INFO  TestBase:42 - Browser Initiated
+2019-07-11 13:34:32 INFO  TestBase:53 - Test name: DeleteTest
+2019-07-11 13:34:32 INFO  recruitmentTest:97 - DashBoardPage is menu CLick
+2019-07-11 13:34:32 INFO  recruitmentTest:101 - successful recruitment menu
+2019-07-11 13:34:32 INFO  recruitmentTest:103 - recruitment page didplied successful
+2019-07-11 13:34:32 INFO  recruitmentTest:106 - successful Deleted
+2019-07-11 13:34:32 INFO  TestBase:72 - Executed test case name:DeleteTest Execution Results : [TestResult name=DeleteTest status=SUCCESS method=recruitmentTest.DeleteTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 13:34:33 INFO  TestBase:63 - Closing Browser
+2019-07-11 13:34:33 INFO  TestBase:65 - Browser Closed
+2019-07-11 13:34:33 INFO  TestBase:36 - Initiate Browser
+2019-07-11 13:34:39 INFO  TestBase:42 - Browser Initiated
+2019-07-11 13:34:39 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-11 13:34:39 INFO  recruitmentTest:21 - DashBoardPage is menu CLick
+2019-07-11 13:34:39 INFO  recruitmentTest:25 - successful recruitment menu
+2019-07-11 13:34:39 INFO  recruitmentTest:27 - recruitment page didplied successful
+2019-07-11 13:34:39 INFO  recruitmentTest:29 - Addrecruitment btn successful
+2019-07-11 13:34:39 INFO  recruitmentTest:31 - successful sendkey
+2019-07-11 13:34:39 INFO  recruitmentTest:33 - Successful add button
+2019-07-11 13:34:39 INFO  recruitmentTest:35 - Successful get text
+2019-07-11 13:34:39 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=recruitmentTest.addRecruitmentType()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 13:34:40 INFO  TestBase:63 - Closing Browser
+2019-07-11 13:34:40 INFO  TestBase:65 - Browser Closed
+2019-07-11 13:34:40 INFO  TestBase:36 - Initiate Browser
+2019-07-11 13:34:45 INFO  TestBase:42 - Browser Initiated
+2019-07-11 13:34:45 INFO  TestBase:53 - Test name: editBtn
+2019-07-11 13:34:45 INFO  recruitmentTest:47 - DashBoardPage is menu CLick
+2019-07-11 13:34:45 INFO  recruitmentTest:51 - successful click recruitment menu
+2019-07-11 13:34:46 INFO  recruitmentTest:53 - recruitment page didplied successful
+2019-07-11 13:34:46 INFO  recruitmentTest:56 - Click edit recruitment
+2019-07-11 13:34:46 INFO  recruitmentTest:58 - Successful clear
+2019-07-11 13:34:46 INFO  recruitmentTest:60 - Successful sendkey
+2019-07-11 13:34:46 INFO  recruitmentTest:62 - Successful edit
+2019-07-11 13:34:46 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=SUCCESS method=recruitmentTest.editBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 13:34:47 INFO  TestBase:63 - Closing Browser
+2019-07-11 13:34:47 INFO  TestBase:65 - Browser Closed
+2019-07-11 13:36:43 INFO  TestBase:36 - Initiate Browser
+2019-07-11 13:36:49 INFO  TestBase:42 - Browser Initiated
+2019-07-11 13:36:49 INFO  TestBase:53 - Test name: CloseTest
+2019-07-11 13:36:49 INFO  recruitmentTest:75 - DashBoardPage is menu CLick
+2019-07-11 13:36:49 INFO  recruitmentTest:79 - successful recruitment menu
+2019-07-11 13:36:49 INFO  recruitmentTest:81 - recruitment page didplied successful
+2019-07-11 13:36:49 INFO  recruitmentTest:83 - Addrecruitment btn successful
+2019-07-11 13:36:50 INFO  recruitmentTest:85 - successful sendkey
+2019-07-11 13:36:50 INFO  recruitmentTest:87 - successful close btn
+2019-07-11 13:36:50 INFO  TestBase:72 - Executed test case name:CloseTest Execution Results : [TestResult name=CloseTest status=SUCCESS method=recruitmentTest.CloseTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 13:36:50 INFO  TestBase:63 - Closing Browser
+2019-07-11 13:36:50 INFO  TestBase:65 - Browser Closed
+2019-07-11 13:36:50 INFO  TestBase:36 - Initiate Browser
+2019-07-11 13:36:56 INFO  TestBase:42 - Browser Initiated
+2019-07-11 13:36:56 INFO  TestBase:53 - Test name: DeleteTest
+2019-07-11 13:36:56 INFO  recruitmentTest:97 - DashBoardPage is menu CLick
+2019-07-11 13:36:56 INFO  recruitmentTest:101 - successful recruitment menu
+2019-07-11 13:36:56 INFO  recruitmentTest:103 - recruitment page didplied successful
+2019-07-11 13:37:01 INFO  TestBase:72 - Executed test case name:DeleteTest Execution Results : [TestResult name=DeleteTest status=FAILURE method=recruitmentTest.DeleteTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 13:41:58 INFO  TestBase:36 - Initiate Browser
+2019-07-11 13:42:04 INFO  TestBase:42 - Browser Initiated
+2019-07-11 13:42:04 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-11 13:42:04 INFO  recruitmentTest:21 - DashBoardPage is menu CLick
+2019-07-11 13:42:05 INFO  recruitmentTest:25 - successful recruitment menu
+2019-07-11 13:42:05 INFO  recruitmentTest:27 - recruitment page didplied successful
+2019-07-11 13:42:05 INFO  recruitmentTest:29 - Addrecruitment btn successful
+2019-07-11 13:42:05 INFO  recruitmentTest:31 - successful sendkey
+2019-07-11 13:42:05 INFO  recruitmentTest:33 - Successful add button
+2019-07-11 13:42:05 INFO  recruitmentTest:35 - Successful get text
+2019-07-11 13:42:05 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=recruitmentTest.addRecruitmentType()[pri:1, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 13:42:06 INFO  TestBase:63 - Closing Browser
+2019-07-11 13:42:06 INFO  TestBase:65 - Browser Closed
+2019-07-11 13:42:06 INFO  TestBase:36 - Initiate Browser
+2019-07-11 13:42:11 INFO  TestBase:42 - Browser Initiated
+2019-07-11 13:42:11 INFO  TestBase:53 - Test name: editBtn
+2019-07-11 13:42:11 INFO  recruitmentTest:47 - DashBoardPage is menu CLick
+2019-07-11 13:42:11 INFO  recruitmentTest:51 - successful click recruitment menu
+2019-07-11 13:42:12 INFO  recruitmentTest:53 - recruitment page didplied successful
+2019-07-11 13:42:12 INFO  recruitmentTest:56 - Click edit recruitment
+2019-07-11 13:42:12 INFO  recruitmentTest:58 - Successful clear
+2019-07-11 13:42:12 INFO  recruitmentTest:60 - Successful sendkey
+2019-07-11 13:42:12 INFO  recruitmentTest:62 - Successful edit
+2019-07-11 13:42:12 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=SUCCESS method=recruitmentTest.editBtn()[pri:2, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 13:42:13 INFO  TestBase:63 - Closing Browser
+2019-07-11 13:42:13 INFO  TestBase:65 - Browser Closed
+2019-07-11 13:42:13 INFO  TestBase:36 - Initiate Browser
+2019-07-11 13:42:18 INFO  TestBase:42 - Browser Initiated
+2019-07-11 13:42:18 INFO  TestBase:53 - Test name: CloseTest
+2019-07-11 13:42:18 INFO  recruitmentTest:75 - DashBoardPage is menu CLick
+2019-07-11 13:42:18 INFO  recruitmentTest:79 - successful recruitment menu
+2019-07-11 13:42:18 INFO  recruitmentTest:81 - recruitment page didplied successful
+2019-07-11 13:42:18 INFO  recruitmentTest:83 - Addrecruitment btn successful
+2019-07-11 13:42:19 INFO  recruitmentTest:85 - successful sendkey
+2019-07-11 13:42:19 INFO  recruitmentTest:87 - successful close btn
+2019-07-11 13:42:19 INFO  TestBase:72 - Executed test case name:CloseTest Execution Results : [TestResult name=CloseTest status=SUCCESS method=recruitmentTest.CloseTest()[pri:3, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 13:42:19 INFO  TestBase:63 - Closing Browser
+2019-07-11 13:42:19 INFO  TestBase:65 - Browser Closed
+2019-07-11 13:42:19 INFO  TestBase:36 - Initiate Browser
+2019-07-11 13:42:25 INFO  TestBase:42 - Browser Initiated
+2019-07-11 13:42:25 INFO  TestBase:53 - Test name: DeleteTest
+2019-07-11 13:42:25 INFO  recruitmentTest:98 - DashBoardPage is menu CLick
+2019-07-11 13:42:25 INFO  recruitmentTest:102 - successful recruitment menu
+2019-07-11 13:42:25 INFO  recruitmentTest:104 - recruitment page didplied successful
+2019-07-11 13:42:25 INFO  recruitmentTest:107 - successful Deleted
+2019-07-11 13:42:25 INFO  TestBase:72 - Executed test case name:DeleteTest Execution Results : [TestResult name=DeleteTest status=SUCCESS method=recruitmentTest.DeleteTest()[pri:4, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 13:42:26 INFO  TestBase:63 - Closing Browser
+2019-07-11 13:42:26 INFO  TestBase:65 - Browser Closed
+2019-07-11 13:50:52 INFO  TestBase:36 - Initiate Browser
+2019-07-11 13:50:59 INFO  TestBase:42 - Browser Initiated
+2019-07-11 13:50:59 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-11 13:50:59 INFO  recruitmentTest:21 - DashBoardPage is menu CLick
+2019-07-11 13:50:59 INFO  recruitmentTest:25 - successful recruitment menu
+2019-07-11 13:50:59 INFO  recruitmentTest:27 - recruitment page didplied successful
+2019-07-11 13:50:59 INFO  recruitmentTest:29 - Addrecruitment btn successful
+2019-07-11 13:50:59 INFO  recruitmentTest:31 - successful sendkey
+2019-07-11 13:50:59 INFO  recruitmentTest:33 - Successful add button
+2019-07-11 13:50:59 INFO  recruitmentTest:35 - Successful get text
+2019-07-11 13:50:59 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=recruitmentTest.addRecruitmentType()[pri:1, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 13:51:00 INFO  TestBase:63 - Closing Browser
+2019-07-11 13:51:00 INFO  TestBase:65 - Browser Closed
+2019-07-11 13:51:00 INFO  TestBase:36 - Initiate Browser
+2019-07-11 13:51:05 INFO  TestBase:42 - Browser Initiated
+2019-07-11 13:51:05 INFO  TestBase:53 - Test name: DeleteTest
+2019-07-11 13:51:05 INFO  recruitmentTest:50 - DashBoardPage is menu CLick
+2019-07-11 13:51:05 INFO  recruitmentTest:54 - successful recruitment menu
+2019-07-11 13:51:05 INFO  recruitmentTest:56 - recruitment page didplied successful
+2019-07-11 13:51:06 INFO  recruitmentTest:59 - successful Deleted
+2019-07-11 13:51:06 INFO  TestBase:72 - Executed test case name:DeleteTest Execution Results : [TestResult name=DeleteTest status=SUCCESS method=recruitmentTest.DeleteTest()[pri:2, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 13:51:06 INFO  TestBase:63 - Closing Browser
+2019-07-11 13:51:06 INFO  TestBase:65 - Browser Closed
+2019-07-11 14:00:40 INFO  TestBase:36 - Initiate Browser
+2019-07-11 14:00:46 INFO  TestBase:42 - Browser Initiated
+2019-07-11 14:00:46 INFO  TestBase:53 - Test name: DeletBtn
+2019-07-11 14:00:46 INFO  DeleteTest:20 - DashBoardPage is menu CLick
+2019-07-11 14:00:46 INFO  DeleteTest:24 - successful recruitment menu
+2019-07-11 14:00:46 INFO  DeleteTest:26 - recruitment page didplied successful
+2019-07-11 14:00:47 INFO  DeleteTest:29 - successful Deleted
+2019-07-11 14:00:47 INFO  TestBase:72 - Executed test case name:DeletBtn Execution Results : [TestResult name=DeletBtn status=SUCCESS method=DeleteTest.DeletBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.DeleteTest@3b084709] output={null}]
+2019-07-11 14:00:47 INFO  TestBase:63 - Closing Browser
+2019-07-11 14:00:47 INFO  TestBase:65 - Browser Closed
+2019-07-11 14:03:31 INFO  TestBase:36 - Initiate Browser
+2019-07-11 14:03:38 INFO  TestBase:42 - Browser Initiated
+2019-07-11 14:03:38 INFO  TestBase:53 - Test name: DeletBtn
+2019-07-11 14:03:38 INFO  DeleteTest:20 - DashBoardPage is menu CLick
+2019-07-11 14:03:38 INFO  DeleteTest:24 - successful recruitment menu
+2019-07-11 14:03:38 INFO  DeleteTest:26 - recruitment page didplied successful
+2019-07-11 14:03:38 INFO  DeleteTest:29 - successful Deleted
+2019-07-11 14:03:38 INFO  TestBase:72 - Executed test case name:DeletBtn Execution Results : [TestResult name=DeletBtn status=SUCCESS method=DeleteTest.DeletBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.DeleteTest@3b084709] output={null}]
+2019-07-11 14:03:39 INFO  TestBase:63 - Closing Browser
+2019-07-11 14:03:39 INFO  TestBase:65 - Browser Closed
+2019-07-11 14:04:16 INFO  TestBase:36 - Initiate Browser
+2019-07-11 14:04:22 INFO  TestBase:42 - Browser Initiated
+2019-07-11 14:04:22 INFO  TestBase:53 - Test name: DeletBtn
+2019-07-11 14:04:22 INFO  DeleteTest:20 - DashBoardPage is menu CLick
+2019-07-11 14:04:22 INFO  DeleteTest:24 - successful recruitment menu
+2019-07-11 14:04:22 INFO  DeleteTest:26 - recruitment page didplied successful
+2019-07-11 14:04:22 INFO  DeleteTest:29 - successful Deleted
+2019-07-11 14:04:22 INFO  TestBase:72 - Executed test case name:DeletBtn Execution Results : [TestResult name=DeletBtn status=SUCCESS method=DeleteTest.DeletBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.DeleteTest@3b084709] output={null}]
+2019-07-11 14:04:23 INFO  TestBase:63 - Closing Browser
+2019-07-11 14:04:23 INFO  TestBase:65 - Browser Closed
+2019-07-11 14:06:10 INFO  TestBase:36 - Initiate Browser
+2019-07-11 14:06:17 INFO  TestBase:42 - Browser Initiated
+2019-07-11 14:06:17 INFO  TestBase:53 - Test name: editBtn
+2019-07-11 14:06:17 INFO  editRecruitment:20 - DashBoardPage is menu CLick
+2019-07-11 14:06:17 INFO  editRecruitment:24 - successful click recruitment menu
+2019-07-11 14:06:17 INFO  editRecruitment:26 - recruitment page didplied successful
+2019-07-11 14:06:17 INFO  editRecruitment:29 - Click edit recruitment
+2019-07-11 14:06:17 INFO  editRecruitment:31 - Successful clear
+2019-07-11 14:06:17 INFO  editRecruitment:33 - Successful sendkey
+2019-07-11 14:06:17 INFO  editRecruitment:35 - Successful edit
+2019-07-11 14:06:17 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=SUCCESS method=editRecruitment.editBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.editRecruitment@3b084709] output={null}]
+2019-07-11 14:06:18 INFO  TestBase:63 - Closing Browser
+2019-07-11 14:06:18 INFO  TestBase:65 - Browser Closed
+2019-07-11 14:09:13 INFO  TestBase:36 - Initiate Browser
+2019-07-11 14:09:19 INFO  TestBase:42 - Browser Initiated
+2019-07-11 14:09:19 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-11 14:09:20 INFO  recruitmentTest:21 - DashBoardPage is menu CLick
+2019-07-11 14:09:20 INFO  recruitmentTest:25 - successful recruitment menu
+2019-07-11 14:09:20 INFO  recruitmentTest:27 - recruitment page didplied successful
+2019-07-11 14:09:20 INFO  recruitmentTest:29 - Addrecruitment btn successful
+2019-07-11 14:09:20 INFO  recruitmentTest:31 - successful sendkey
+2019-07-11 14:09:20 INFO  recruitmentTest:33 - Successful add button
+2019-07-11 14:09:20 INFO  recruitmentTest:35 - Successful get text
+2019-07-11 14:09:20 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=recruitmentTest.addRecruitmentType()[pri:1, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@3b084709] output={null}]
+2019-07-11 14:09:21 INFO  TestBase:63 - Closing Browser
+2019-07-11 14:09:21 INFO  TestBase:65 - Browser Closed
+2019-07-11 14:21:23 INFO  TestBase:36 - Initiate Browser
+2019-07-11 14:21:30 INFO  TestBase:42 - Browser Initiated
+2019-07-11 14:21:30 INFO  TestBase:53 - Test name: DeletBtn
+2019-07-11 14:21:32 INFO  DeleteTest:20 - DashBoardPage is menu CLick
+2019-07-11 14:21:32 INFO  DeleteTest:24 - successful recruitment menu
+2019-07-11 14:21:32 INFO  DeleteTest:26 - recruitment page didplied successful
+2019-07-11 14:21:33 INFO  DeleteTest:29 - successful Deleted
+2019-07-11 14:21:33 INFO  DeleteTest:31 - Deleted 
+2019-07-11 14:21:33 INFO  TestBase:72 - Executed test case name:DeletBtn Execution Results : [TestResult name=DeletBtn status=SUCCESS method=DeleteTest.DeletBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.DeleteTest@22a67b4] output={null}]
+2019-07-11 14:21:33 INFO  TestBase:63 - Closing Browser
+2019-07-11 14:21:33 INFO  TestBase:65 - Browser Closed
+2019-07-11 14:23:43 INFO  TestBase:36 - Initiate Browser
+2019-07-11 14:23:53 INFO  TestBase:42 - Browser Initiated
+2019-07-11 14:23:53 INFO  TestBase:53 - Test name: DeletBtn
+2019-07-11 14:23:56 INFO  DeleteTest:20 - DashBoardPage is menu CLick
+2019-07-11 14:23:56 INFO  DeleteTest:24 - successful recruitment menu
+2019-07-11 14:23:56 INFO  DeleteTest:26 - recruitment page didplied successful
+2019-07-11 14:23:56 INFO  DeleteTest:29 - successful Deleted
+2019-07-11 14:23:56 INFO  DeleteTest:31 - Deleted 
+2019-07-11 14:23:56 INFO  TestBase:72 - Executed test case name:DeletBtn Execution Results : [TestResult name=DeletBtn status=SUCCESS method=DeleteTest.DeletBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.DeleteTest@3b084709] output={null}]
+2019-07-11 14:23:57 INFO  TestBase:63 - Closing Browser
+2019-07-11 14:23:57 INFO  TestBase:65 - Browser Closed
+2019-07-11 15:21:52 INFO  TestBase:36 - Initiate Browser
+2019-07-11 15:21:58 INFO  TestBase:42 - Browser Initiated
+2019-07-11 15:21:58 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-11 15:21:59 INFO  recruitmentTest:21 - DashBoardPage is menu CLick
+2019-07-11 15:21:59 INFO  recruitmentTest:25 - successful recruitment menu
+2019-07-11 15:21:59 INFO  recruitmentTest:27 - recruitment page didplied successful
+2019-07-11 15:21:59 INFO  recruitmentTest:29 - Addrecruitment btn successful
+2019-07-11 15:21:59 INFO  recruitmentTest:31 - successful sendkey
+2019-07-11 15:21:59 INFO  recruitmentTest:33 - Successful add button
+2019-07-11 15:21:59 INFO  recruitmentTest:35 - Successful get text
+2019-07-11 15:21:59 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=recruitmentTest.addRecruitmentType()[pri:1, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@3b084709] output={null}]
+2019-07-11 15:22:00 INFO  TestBase:63 - Closing Browser
+2019-07-11 15:22:00 INFO  TestBase:65 - Browser Closed
+2019-07-11 15:22:21 INFO  TestBase:36 - Initiate Browser
+2019-07-11 15:22:27 INFO  TestBase:42 - Browser Initiated
+2019-07-11 15:22:27 INFO  TestBase:53 - Test name: editBtn
+2019-07-11 15:22:28 INFO  editRecruitment:20 - DashBoardPage is menu CLick
+2019-07-11 15:22:28 INFO  editRecruitment:24 - successful click recruitment menu
+2019-07-11 15:22:28 INFO  editRecruitment:26 - recruitment page didplied successful
+2019-07-11 15:22:28 INFO  editRecruitment:29 - Click edit recruitment
+2019-07-11 15:22:28 INFO  editRecruitment:31 - Successful clear
+2019-07-11 15:22:28 INFO  editRecruitment:33 - Successful sendkey
+2019-07-11 15:22:28 INFO  editRecruitment:35 - Successful edit
+2019-07-11 15:22:28 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=SUCCESS method=editRecruitment.editBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.editRecruitment@3b084709] output={null}]
+2019-07-11 15:22:29 INFO  TestBase:63 - Closing Browser
+2019-07-11 15:22:29 INFO  TestBase:65 - Browser Closed
+2019-07-11 15:23:17 INFO  TestBase:36 - Initiate Browser
+2019-07-11 15:23:23 INFO  TestBase:42 - Browser Initiated
+2019-07-11 15:23:23 INFO  TestBase:53 - Test name: DeletBtn
+2019-07-11 15:23:23 INFO  DeleteTest:20 - DashBoardPage is menu CLick
+2019-07-11 15:23:23 INFO  DeleteTest:24 - successful recruitment menu
+2019-07-11 15:23:23 INFO  DeleteTest:26 - recruitment page didplied successful
+2019-07-11 15:23:23 INFO  DeleteTest:29 - successful Deleted
+2019-07-11 15:23:23 INFO  DeleteTest:31 - Deleted 
+2019-07-11 15:23:23 INFO  TestBase:72 - Executed test case name:DeletBtn Execution Results : [TestResult name=DeletBtn status=SUCCESS method=DeleteTest.DeletBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.DeleteTest@3b084709] output={null}]
+2019-07-11 15:23:24 INFO  TestBase:63 - Closing Browser
+2019-07-11 15:23:24 INFO  TestBase:65 - Browser Closed
+2019-07-11 15:24:07 INFO  TestBase:36 - Initiate Browser
+2019-07-11 15:24:13 INFO  TestBase:42 - Browser Initiated
+2019-07-11 15:24:13 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-11 15:24:13 INFO  recruitmentTest:21 - DashBoardPage is menu CLick
+2019-07-11 15:24:13 INFO  recruitmentTest:25 - successful recruitment menu
+2019-07-11 15:24:13 INFO  recruitmentTest:27 - recruitment page didplied successful
+2019-07-11 15:24:14 INFO  recruitmentTest:29 - Addrecruitment btn successful
+2019-07-11 15:24:14 INFO  recruitmentTest:31 - successful sendkey
+2019-07-11 15:24:14 INFO  recruitmentTest:33 - Successful add button
+2019-07-11 15:24:14 INFO  recruitmentTest:35 - Successful get text
+2019-07-11 15:24:14 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=recruitmentTest.addRecruitmentType()[pri:1, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 15:24:15 INFO  TestBase:63 - Closing Browser
+2019-07-11 15:24:15 INFO  TestBase:65 - Browser Closed
+2019-07-11 15:24:56 INFO  TestBase:36 - Initiate Browser
+2019-07-11 15:25:02 INFO  TestBase:42 - Browser Initiated
+2019-07-11 15:25:02 INFO  TestBase:53 - Test name: editBtn
+2019-07-11 15:25:02 INFO  editRecruitment:20 - DashBoardPage is menu CLick
+2019-07-11 15:25:02 INFO  editRecruitment:24 - successful click recruitment menu
+2019-07-11 15:25:02 INFO  editRecruitment:26 - recruitment page didplied successful
+2019-07-11 15:25:03 INFO  editRecruitment:29 - Click edit recruitment
+2019-07-11 15:25:03 INFO  editRecruitment:31 - Successful clear
+2019-07-11 15:25:03 INFO  editRecruitment:33 - Successful sendkey
+2019-07-11 15:25:03 INFO  editRecruitment:35 - Successful edit
+2019-07-11 15:25:03 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=SUCCESS method=editRecruitment.editBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.editRecruitment@3b084709] output={null}]
+2019-07-11 15:25:03 INFO  TestBase:63 - Closing Browser
+2019-07-11 15:25:03 INFO  TestBase:65 - Browser Closed
+2019-07-11 15:25:28 INFO  TestBase:36 - Initiate Browser
+2019-07-11 15:25:35 INFO  TestBase:42 - Browser Initiated
+2019-07-11 15:25:35 INFO  TestBase:53 - Test name: DeletBtn
+2019-07-11 15:25:35 INFO  DeleteTest:20 - DashBoardPage is menu CLick
+2019-07-11 15:25:35 INFO  DeleteTest:24 - successful recruitment menu
+2019-07-11 15:25:35 INFO  DeleteTest:26 - recruitment page didplied successful
+2019-07-11 15:25:35 INFO  DeleteTest:29 - successful Deleted
+2019-07-11 15:25:35 INFO  DeleteTest:31 - Deleted 
+2019-07-11 15:25:35 INFO  TestBase:72 - Executed test case name:DeletBtn Execution Results : [TestResult name=DeletBtn status=SUCCESS method=DeleteTest.DeletBtn()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.DeleteTest@3b084709] output={null}]
+2019-07-11 15:25:36 INFO  TestBase:63 - Closing Browser
+2019-07-11 15:25:36 INFO  TestBase:65 - Browser Closed
+2019-07-11 16:16:37 INFO  TestBase:36 - Initiate Browser
+2019-07-11 16:16:45 INFO  TestBase:42 - Browser Initiated
+2019-07-11 16:16:45 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-11 16:16:45 INFO  recruitmentTest:21 - DashBoardPage is menu CLick
+2019-07-11 16:16:45 INFO  recruitmentTest:25 - successful recruitment menu
+2019-07-11 16:16:46 INFO  recruitmentTest:27 - recruitment page didplied successful
+2019-07-11 16:16:46 INFO  recruitmentTest:29 - Addrecruitment btn successful
+2019-07-11 16:16:46 INFO  recruitmentTest:31 - successful sendkey
+2019-07-11 16:16:46 INFO  recruitmentTest:33 - Successful add button
+2019-07-11 16:16:46 INFO  recruitmentTest:35 - Successful get text
+2019-07-11 16:16:46 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=recruitmentTest.addRecruitmentType()[pri:1, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 16:16:47 INFO  TestBase:63 - Closing Browser
+2019-07-11 16:16:47 INFO  TestBase:65 - Browser Closed
+2019-07-11 16:16:47 INFO  TestBase:36 - Initiate Browser
+2019-07-11 16:16:53 INFO  TestBase:42 - Browser Initiated
+2019-07-11 16:16:53 INFO  TestBase:53 - Test name: editBtn
+2019-07-11 16:16:53 INFO  recruitmentTest:47 - DashBoardPage is menu CLick
+2019-07-11 16:16:54 INFO  recruitmentTest:51 - successful click recruitment menu
+2019-07-11 16:16:54 INFO  recruitmentTest:53 - recruitment page didplied successful
+2019-07-11 16:16:54 INFO  recruitmentTest:56 - Click edit recruitment
+2019-07-11 16:16:54 INFO  recruitmentTest:58 - Successful clear
+2019-07-11 16:16:54 INFO  recruitmentTest:60 - Successful sendkey
+2019-07-11 16:16:54 INFO  recruitmentTest:62 - Successful edit
+2019-07-11 16:16:54 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=SUCCESS method=recruitmentTest.editBtn()[pri:2, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 16:16:55 INFO  TestBase:63 - Closing Browser
+2019-07-11 16:16:55 INFO  TestBase:65 - Browser Closed
+2019-07-11 16:16:55 INFO  TestBase:36 - Initiate Browser
+2019-07-11 16:17:01 INFO  TestBase:42 - Browser Initiated
+2019-07-11 16:17:01 INFO  TestBase:53 - Test name: DeletBtn
+2019-07-11 16:17:02 INFO  recruitmentTest:76 - DashBoardPage is menu CLick
+2019-07-11 16:17:02 INFO  recruitmentTest:80 - successful recruitment menu
+2019-07-11 16:17:02 INFO  recruitmentTest:82 - recruitment page didplied successful
+2019-07-11 16:17:02 INFO  recruitmentTest:85 - successful Deleted
+2019-07-11 16:17:02 INFO  recruitmentTest:87 - Deleted 
+2019-07-11 16:17:02 INFO  TestBase:72 - Executed test case name:DeletBtn Execution Results : [TestResult name=DeletBtn status=SUCCESS method=recruitmentTest.DeletBtn()[pri:3, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 16:17:03 INFO  TestBase:63 - Closing Browser
+2019-07-11 16:17:03 INFO  TestBase:65 - Browser Closed
+2019-07-11 16:17:03 INFO  TestBase:36 - Initiate Browser
+2019-07-11 16:17:09 INFO  TestBase:42 - Browser Initiated
+2019-07-11 16:17:09 INFO  TestBase:53 - Test name: CloseTest
+2019-07-11 16:17:09 INFO  recruitmentTest:101 - DashBoardPage is menu CLick
+2019-07-11 16:17:10 INFO  recruitmentTest:105 - successful recruitment menu
+2019-07-11 16:17:10 INFO  recruitmentTest:107 - recruitment page didplied successful
+2019-07-11 16:17:10 INFO  recruitmentTest:109 - Addrecruitment btn successful
+2019-07-11 16:17:10 INFO  recruitmentTest:111 - successful sendkey
+2019-07-11 16:17:10 INFO  recruitmentTest:113 - successful close btn
+2019-07-11 16:17:10 INFO  TestBase:72 - Executed test case name:CloseTest Execution Results : [TestResult name=CloseTest status=SUCCESS method=recruitmentTest.CloseTest()[pri:4, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-11 16:17:11 INFO  TestBase:63 - Closing Browser
+2019-07-11 16:17:11 INFO  TestBase:65 - Browser Closed
+2019-07-11 16:19:21 INFO  TestBase:36 - Initiate Browser
+2019-07-11 16:19:28 INFO  TestBase:42 - Browser Initiated
+2019-07-11 16:19:28 INFO  TestBase:53 - Test name: CloseTest
+2019-07-11 16:19:28 INFO  closeRecruitmentTest:18 - DashBoardPage is menu CLick
+2019-07-11 16:19:29 INFO  closeRecruitmentTest:22 - successful recruitment menu
+2019-07-11 16:19:29 INFO  closeRecruitmentTest:24 - recruitment page didplied successful
+2019-07-11 16:19:29 INFO  closeRecruitmentTest:26 - Addrecruitment btn successful
+2019-07-11 16:19:29 INFO  closeRecruitmentTest:28 - successful sendkey
+2019-07-11 16:19:29 INFO  closeRecruitmentTest:30 - successful close btn
+2019-07-11 16:19:29 INFO  TestBase:72 - Executed test case name:CloseTest Execution Results : [TestResult name=CloseTest status=SUCCESS method=closeRecruitmentTest.CloseTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.recruitment.closeRecruitmentTest@3b084709] output={null}]
+2019-07-11 16:19:30 INFO  TestBase:63 - Closing Browser
+2019-07-11 16:19:30 INFO  TestBase:65 - Browser Closed
+2019-07-11 16:38:55 INFO  TestBase:36 - Initiate Browser
+2019-07-11 16:39:03 INFO  TestBase:42 - Browser Initiated
+2019-07-11 16:39:03 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-11 16:39:03 INFO  roleTest:17 - Successful Click ManageLeave
+2019-07-11 16:39:03 INFO  roleTest:19 - Sccc sub menu
+2019-07-11 16:39:08 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=FAILURE method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-11 16:40:23 INFO  TestBase:36 - Initiate Browser
+2019-07-11 16:40:31 INFO  TestBase:42 - Browser Initiated
+2019-07-11 16:40:31 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-11 16:40:31 INFO  roleTest:17 - Successful Click ManageLeave
+2019-07-11 16:40:31 INFO  roleTest:19 - Sccc sub menu
+2019-07-11 16:40:36 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=FAILURE method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-11 16:52:36 INFO  TestBase:36 - Initiate Browser
+2019-07-11 16:52:43 INFO  TestBase:42 - Browser Initiated
+2019-07-11 16:52:43 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-11 16:52:44 INFO  roleTest:17 - Successful Click ManageLeave
+2019-07-11 16:52:44 INFO  roleTest:19 - Sccc sub menu
+2019-07-11 16:52:49 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=FAILURE method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-11 17:01:57 INFO  TestBase:36 - Initiate Browser
+2019-07-11 17:02:04 INFO  TestBase:42 - Browser Initiated
+2019-07-11 17:02:04 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-11 17:02:05 INFO  roleTest:17 - Successful Click ManageLeave
+2019-07-11 17:02:05 INFO  roleTest:19 - Sccc sub menu
+2019-07-11 17:02:10 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=FAILURE method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-11 17:04:39 INFO  TestBase:36 - Initiate Browser
+2019-07-11 17:04:46 INFO  TestBase:42 - Browser Initiated
+2019-07-11 17:04:46 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-11 17:04:47 INFO  roleTest:17 - Successful Click ManageLeave
+2019-07-11 17:04:47 INFO  roleTest:19 - Sccc sub menu
+2019-07-11 17:04:52 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=FAILURE method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-12 09:43:37 INFO  TestBase:36 - Initiate Browser
+2019-07-12 09:43:46 INFO  TestBase:42 - Browser Initiated
+2019-07-12 09:43:46 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-12 09:43:46 INFO  roleTest:17 - Successful Click ManageLeave
+2019-07-12 09:43:46 INFO  roleTest:19 - Sccc sub menu
+2019-07-12 09:43:47 INFO  roleTest:21 - click add
+2019-07-12 09:43:47 INFO  roleTest:23 - verify page
+2019-07-12 09:43:47 INFO  roleTest:25 - success key send
+2019-07-12 09:43:47 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=FAILURE method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-12 09:48:26 INFO  TestBase:36 - Initiate Browser
+2019-07-12 09:48:33 INFO  TestBase:42 - Browser Initiated
+2019-07-12 09:48:33 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-12 09:48:34 INFO  roleTest:17 - Successful Click ManageLeave
+2019-07-12 09:48:34 INFO  roleTest:19 - Sccc sub menu
+2019-07-12 09:48:34 INFO  roleTest:21 - click add
+2019-07-12 09:48:34 INFO  roleTest:23 - verify page
+2019-07-12 09:48:34 INFO  roleTest:25 - success key send
+2019-07-12 09:48:34 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=FAILURE method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-12 09:52:19 INFO  TestBase:36 - Initiate Browser
+2019-07-12 09:52:27 INFO  TestBase:42 - Browser Initiated
+2019-07-12 09:52:27 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-12 09:52:27 INFO  roleTest:17 - Successful Click ManageLeave
+2019-07-12 09:52:27 INFO  roleTest:19 - Sccc sub menu
+2019-07-12 09:52:27 INFO  roleTest:21 - click add
+2019-07-12 09:52:28 INFO  roleTest:23 - verify page
+2019-07-12 09:52:28 INFO  roleTest:25 - success key send
+2019-07-12 09:52:28 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=FAILURE method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-12 09:58:00 INFO  TestBase:36 - Initiate Browser
+2019-07-12 09:58:08 INFO  TestBase:42 - Browser Initiated
+2019-07-12 09:58:08 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-12 09:58:08 INFO  roleTest:17 - Successful Click ManageLeave
+2019-07-12 09:58:08 INFO  roleTest:19 - Sccc sub menu
+2019-07-12 09:58:09 INFO  roleTest:21 - click add
+2019-07-12 09:58:09 INFO  roleTest:23 - verify page
+2019-07-12 09:58:09 INFO  roleTest:25 - success key send
+2019-07-12 09:58:14 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=FAILURE method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@22a67b4] output={null}]
+2019-07-12 10:01:24 INFO  TestBase:36 - Initiate Browser
+2019-07-12 10:01:31 INFO  TestBase:42 - Browser Initiated
+2019-07-12 10:01:31 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-12 10:01:31 INFO  roleTest:17 - Successful Click ManageLeave
+2019-07-12 10:01:32 INFO  roleTest:19 - Sccc sub menu
+2019-07-12 10:01:32 INFO  roleTest:21 - click add
+2019-07-12 10:01:32 INFO  roleTest:23 - verify page
+2019-07-12 10:01:32 INFO  roleTest:25 - success key send
+2019-07-12 10:01:32 INFO  roleTest:27 - click save
+2019-07-12 10:01:33 INFO  roleTest:29 - successful
+2019-07-12 10:01:33 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=SUCCESS method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-12 10:01:33 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:01:33 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:17:04 INFO  TestBase:36 - Initiate Browser
+2019-07-12 10:17:12 INFO  TestBase:42 - Browser Initiated
+2019-07-12 10:17:12 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-12 10:17:12 INFO  roleTest:17 - Successful Click ManageLeave
+2019-07-12 10:17:12 INFO  roleTest:19 - Sccc sub menu
+2019-07-12 10:17:13 INFO  roleTest:21 - click add
+2019-07-12 10:17:13 INFO  roleTest:23 - verify page
+2019-07-12 10:17:13 INFO  roleTest:25 - success key send
+2019-07-12 10:17:13 INFO  roleTest:27 - click save
+2019-07-12 10:17:18 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=FAILURE method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-12 10:20:02 INFO  TestBase:36 - Initiate Browser
+2019-07-12 10:20:10 INFO  TestBase:42 - Browser Initiated
+2019-07-12 10:20:10 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-12 10:20:10 INFO  roleTest:17 - Successful Click ManageLeave
+2019-07-12 10:20:10 INFO  roleTest:19 - Sccc sub menu
+2019-07-12 10:20:10 INFO  roleTest:21 - click add
+2019-07-12 10:20:11 INFO  roleTest:23 - verify page
+2019-07-12 10:20:11 INFO  roleTest:25 - success key send
+2019-07-12 10:20:11 INFO  roleTest:27 - click save
+2019-07-12 10:20:16 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=FAILURE method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-12 10:20:58 INFO  TestBase:36 - Initiate Browser
+2019-07-12 10:21:06 INFO  TestBase:42 - Browser Initiated
+2019-07-12 10:21:06 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-12 10:21:06 INFO  roleTest:17 - Successful Click ManageLeave
+2019-07-12 10:21:06 INFO  roleTest:19 - Sccc sub menu
+2019-07-12 10:21:06 INFO  roleTest:21 - click add
+2019-07-12 10:21:06 INFO  roleTest:23 - verify page
+2019-07-12 10:21:07 INFO  roleTest:25 - success key send
+2019-07-12 10:21:07 INFO  roleTest:27 - click save
+2019-07-12 10:21:12 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=FAILURE method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-12 10:39:51 INFO  TestBase:36 - Initiate Browser
+2019-07-12 10:39:59 INFO  TestBase:42 - Browser Initiated
+2019-07-12 10:39:59 INFO  TestBase:53 - Test name: EditTest
+2019-07-12 10:40:00 INFO  RoleEditPage:31 - ***Success clear***
+2019-07-12 10:40:00 INFO  RoleEditPage:25 - ***Success sent
+2019-07-12 10:40:00 INFO  RoleEditPage:39 - ****Success update
+2019-07-12 10:40:01 INFO  RoleEditPage:46 - ***sucess Ok****
+2019-07-12 10:40:01 INFO  TestBase:72 - Executed test case name:EditTest Execution Results : [TestResult name=EditTest status=SUCCESS method=roleTest.EditTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-12 10:40:01 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:40:01 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:40:13 INFO  TestBase:36 - Initiate Browser
+2019-07-12 10:40:21 INFO  TestBase:42 - Browser Initiated
+2019-07-12 10:40:21 INFO  TestBase:53 - Test name: EditTest
+2019-07-12 10:40:22 INFO  RoleEditPage:31 - ***Success clear***
+2019-07-12 10:40:22 INFO  RoleEditPage:25 - ***Success sent
+2019-07-12 10:40:22 INFO  RoleEditPage:39 - ****Success update
+2019-07-12 10:40:27 INFO  TestBase:72 - Executed test case name:EditTest Execution Results : [TestResult name=EditTest status=FAILURE method=roleTest.EditTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@6321e813] output={null}]
+2019-07-12 10:43:12 INFO  TestBase:36 - Initiate Browser
+2019-07-12 10:43:20 INFO  TestBase:42 - Browser Initiated
+2019-07-12 10:43:20 INFO  TestBase:53 - Test name: EditTest
+2019-07-12 10:43:20 INFO  RoleEditPage:31 - ***Success clear***
+2019-07-12 10:43:21 INFO  RoleEditPage:25 - ***Success sent
+2019-07-12 10:43:21 INFO  RoleEditPage:39 - ****Success update
+2019-07-12 10:43:22 INFO  RoleEditPage:46 - ***sucess Ok****
+2019-07-12 10:43:22 INFO  TestBase:72 - Executed test case name:EditTest Execution Results : [TestResult name=EditTest status=SUCCESS method=roleTest.EditTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@6321e813] output={null}]
+2019-07-12 10:43:22 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:43:22 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:43:22 INFO  TestBase:36 - Initiate Browser
+2019-07-12 10:43:28 INFO  TestBase:42 - Browser Initiated
+2019-07-12 10:43:28 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-12 10:43:29 INFO  roleTest:18 - Successful Click ManageLeave
+2019-07-12 10:43:29 INFO  roleTest:20 - Sccc sub menu
+2019-07-12 10:43:29 INFO  roleTest:22 - click add
+2019-07-12 10:43:29 INFO  roleTest:24 - verify page
+2019-07-12 10:43:29 INFO  roleTest:26 - success key send
+2019-07-12 10:43:29 INFO  roleTest:28 - click save
+2019-07-12 10:43:30 INFO  roleTest:30 - successful
+2019-07-12 10:43:30 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=SUCCESS method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@6321e813] output={null}]
+2019-07-12 10:43:31 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:43:31 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:44:24 INFO  TestBase:36 - Initiate Browser
+2019-07-12 10:44:32 INFO  TestBase:42 - Browser Initiated
+2019-07-12 10:44:32 INFO  TestBase:53 - Test name: EditTest
+2019-07-12 10:44:32 INFO  RoleEditPage:31 - ***Success clear***
+2019-07-12 10:44:33 INFO  RoleEditPage:25 - ***Success sent
+2019-07-12 10:44:33 INFO  RoleEditPage:39 - ****Success update
+2019-07-12 10:44:34 INFO  RoleEditPage:46 - ***sucess Ok****
+2019-07-12 10:44:34 INFO  TestBase:72 - Executed test case name:EditTest Execution Results : [TestResult name=EditTest status=SUCCESS method=roleTest.EditTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@6321e813] output={null}]
+2019-07-12 10:44:34 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:44:34 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:44:34 INFO  TestBase:36 - Initiate Browser
+2019-07-12 10:44:41 INFO  TestBase:42 - Browser Initiated
+2019-07-12 10:44:41 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-12 10:44:41 INFO  roleTest:18 - Successful Click ManageLeave
+2019-07-12 10:44:41 INFO  roleTest:20 - Sccc sub menu
+2019-07-12 10:44:41 INFO  roleTest:22 - click add
+2019-07-12 10:44:41 INFO  roleTest:24 - verify page
+2019-07-12 10:44:42 INFO  roleTest:26 - success key send
+2019-07-12 10:44:42 INFO  roleTest:28 - click save
+2019-07-12 10:44:42 INFO  roleTest:30 - successful
+2019-07-12 10:44:42 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=SUCCESS method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@6321e813] output={null}]
+2019-07-12 10:44:43 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:44:43 INFO  TestBase:65 - Browser Closed
+2019-07-12 10:59:46 INFO  TestBase:36 - Initiate Browser
+2019-07-12 10:59:54 INFO  TestBase:42 - Browser Initiated
+2019-07-12 10:59:54 INFO  TestBase:53 - Test name: DeleteTest
+2019-07-12 10:59:54 INFO  RoleEditPage:62 - ***Success conform***
+2019-07-12 10:59:55 INFO  RoleEditPage:74 - Successfil Delete
+2019-07-12 10:59:55 INFO  TestBase:72 - Executed test case name:DeleteTest Execution Results : [TestResult name=DeleteTest status=SUCCESS method=roleTest.DeleteTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-12 10:59:55 INFO  TestBase:63 - Closing Browser
+2019-07-12 10:59:55 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:01:28 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:01:35 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:01:35 INFO  TestBase:53 - Test name: DeleteTest
+2019-07-12 11:01:41 INFO  TestBase:72 - Executed test case name:DeleteTest Execution Results : [TestResult name=DeleteTest status=FAILURE method=roleTest.DeleteTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@6321e813] output={null}]
+2019-07-12 11:03:25 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:03:43 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:03:43 INFO  TestBase:53 - Test name: DeleteTest
+2019-07-12 11:03:48 INFO  TestBase:72 - Executed test case name:DeleteTest Execution Results : [TestResult name=DeleteTest status=FAILURE method=roleTest.DeleteTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@6321e813] output={null}]
+2019-07-12 11:05:37 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:05:45 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:05:45 INFO  TestBase:53 - Test name: addRolrTest
+2019-07-12 11:05:45 INFO  roleTest:18 - Successful Click ManageLeave
+2019-07-12 11:05:45 INFO  roleTest:20 - Sccc sub menu
+2019-07-12 11:05:45 INFO  roleTest:22 - click add
+2019-07-12 11:05:45 INFO  roleTest:24 - verify page
+2019-07-12 11:05:46 INFO  roleTest:26 - success key send
+2019-07-12 11:05:46 INFO  roleTest:28 - click save
+2019-07-12 11:05:46 INFO  roleTest:30 - successful
+2019-07-12 11:05:46 INFO  TestBase:72 - Executed test case name:addRolrTest Execution Results : [TestResult name=addRolrTest status=SUCCESS method=roleTest.addRolrTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-12 11:05:47 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:05:47 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:06:13 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:06:20 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:06:20 INFO  TestBase:53 - Test name: EditTest
+2019-07-12 11:06:21 INFO  RoleEditPage:35 - ***Success clear***
+2019-07-12 11:06:22 INFO  RoleEditPage:29 - ***Success sent
+2019-07-12 11:06:22 INFO  RoleEditPage:43 - ****Success update
+2019-07-12 11:06:27 INFO  TestBase:72 - Executed test case name:EditTest Execution Results : [TestResult name=EditTest status=FAILURE method=roleTest.EditTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-12 11:07:06 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:07:14 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:07:14 INFO  TestBase:53 - Test name: EditTest
+2019-07-12 11:07:15 INFO  RoleEditPage:35 - ***Success clear***
+2019-07-12 11:07:15 INFO  RoleEditPage:29 - ***Success sent
+2019-07-12 11:07:15 INFO  RoleEditPage:43 - ****Success update
+2019-07-12 11:07:20 INFO  TestBase:72 - Executed test case name:EditTest Execution Results : [TestResult name=EditTest status=FAILURE method=roleTest.EditTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@3b084709] output={null}]
+2019-07-12 11:08:08 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:08:16 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:08:16 INFO  TestBase:53 - Test name: DeleteTest
+2019-07-12 11:08:21 INFO  TestBase:72 - Executed test case name:DeleteTest Execution Results : [TestResult name=DeleteTest status=FAILURE method=roleTest.DeleteTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@6321e813] output={null}]
+2019-07-12 11:08:38 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:08:45 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:08:45 INFO  TestBase:53 - Test name: DeleteTest
+2019-07-12 11:08:51 INFO  TestBase:72 - Executed test case name:DeleteTest Execution Results : [TestResult name=DeleteTest status=FAILURE method=roleTest.DeleteTest()[pri:0, instance:com.sgic.automation.leavesystem.tests.role.roleTest@6321e813] output={null}]
+2019-07-12 11:16:34 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:16:42 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:16:42 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-12 11:16:42 INFO  recruitmentTest:21 - DashBoardPage is menu CLick
+2019-07-12 11:16:42 INFO  recruitmentTest:25 - successful recruitment menu
+2019-07-12 11:16:43 INFO  recruitmentTest:27 - recruitment page didplied successful
+2019-07-12 11:16:43 INFO  recruitmentTest:29 - Addrecruitment btn successful
+2019-07-12 11:16:43 INFO  recruitmentTest:31 - successful sendkey
+2019-07-12 11:16:43 INFO  recruitmentTest:33 - Successful add button
+2019-07-12 11:16:43 INFO  recruitmentTest:35 - Successful get text
+2019-07-12 11:16:43 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=recruitmentTest.addRecruitmentType()[pri:1, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@3b084709] output={null}]
+2019-07-12 11:16:44 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:16:44 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:31:33 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:31:40 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:31:40 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-12 11:31:41 INFO  recruitmentTest:21 - DashBoardPage is menu CLick
+2019-07-12 11:31:41 INFO  recruitmentTest:25 - successful recruitment menu
+2019-07-12 11:31:41 INFO  recruitmentTest:27 - recruitment page didplied successful
+2019-07-12 11:31:41 INFO  recruitmentTest:29 - Addrecruitment btn successful
+2019-07-12 11:31:41 INFO  recruitmentTest:31 - successful sendkey
+2019-07-12 11:31:41 INFO  recruitmentTest:33 - Successful add button
+2019-07-12 11:31:42 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=recruitmentTest.addRecruitmentType()[pri:1, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@3b084709] output={null}]
+2019-07-12 11:31:42 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:31:42 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:35:02 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:35:10 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:35:10 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-12 11:35:10 INFO  recruitmentTest:21 - DashBoardPage is menu CLick
+2019-07-12 11:35:10 INFO  recruitmentTest:25 - successful recruitment menu
+2019-07-12 11:35:10 INFO  recruitmentTest:27 - recruitment page didplied successful
+2019-07-12 11:35:11 INFO  recruitmentTest:29 - Addrecruitment btn successful
+2019-07-12 11:35:11 INFO  recruitmentTest:31 - successful sendkey
+2019-07-12 11:35:11 INFO  recruitmentTest:33 - Successful add button
+2019-07-12 11:35:11 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=recruitmentTest.addRecruitmentType()[pri:1, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-12 11:35:12 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:35:12 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:35:12 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:35:18 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:35:18 INFO  TestBase:53 - Test name: editBtn
+2019-07-12 11:35:18 INFO  recruitmentTest:46 - DashBoardPage is menu CLick
+2019-07-12 11:35:19 INFO  recruitmentTest:50 - successful click recruitment menu
+2019-07-12 11:35:19 INFO  recruitmentTest:52 - recruitment page didplied successful
+2019-07-12 11:35:19 INFO  recruitmentTest:55 - Click edit recruitment
+2019-07-12 11:35:19 INFO  recruitmentTest:57 - Successful clear
+2019-07-12 11:35:19 INFO  recruitmentTest:59 - Successful sendkey
+2019-07-12 11:35:19 INFO  recruitmentTest:61 - Successful edit
+2019-07-12 11:35:19 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=SUCCESS method=recruitmentTest.editBtn()[pri:2, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-12 11:35:20 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:35:20 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:35:20 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:35:26 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:35:26 INFO  TestBase:53 - Test name: DeletBtn
+2019-07-12 11:35:26 INFO  recruitmentTest:75 - DashBoardPage is menu CLick
+2019-07-12 11:35:27 INFO  recruitmentTest:79 - successful recruitment menu
+2019-07-12 11:35:27 INFO  recruitmentTest:81 - recruitment page didplied successful
+2019-07-12 11:35:27 INFO  recruitmentTest:84 - successful Deleted
+2019-07-12 11:35:27 INFO  recruitmentTest:86 - Deleted 
+2019-07-12 11:35:27 INFO  TestBase:72 - Executed test case name:DeletBtn Execution Results : [TestResult name=DeletBtn status=SUCCESS method=recruitmentTest.DeletBtn()[pri:3, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-12 11:35:28 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:35:28 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:35:28 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:35:34 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:35:34 INFO  TestBase:53 - Test name: CloseTest
+2019-07-12 11:35:34 INFO  recruitmentTest:100 - DashBoardPage is menu CLick
+2019-07-12 11:35:34 INFO  recruitmentTest:104 - successful recruitment menu
+2019-07-12 11:35:34 INFO  recruitmentTest:106 - recruitment page didplied successful
+2019-07-12 11:35:35 INFO  recruitmentTest:108 - Addrecruitment btn successful
+2019-07-12 11:35:35 INFO  recruitmentTest:110 - successful sendkey
+2019-07-12 11:35:35 INFO  recruitmentTest:112 - successful close btn
+2019-07-12 11:35:35 INFO  TestBase:72 - Executed test case name:CloseTest Execution Results : [TestResult name=CloseTest status=SUCCESS method=recruitmentTest.CloseTest()[pri:4, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-12 11:35:36 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:35:36 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:51:56 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:52:04 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:52:04 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-12 11:52:04 INFO  recruitmentTest:21 - DashBoardPage is menu CLick
+2019-07-12 11:52:04 INFO  recruitmentTest:25 - successful recruitment menu
+2019-07-12 11:52:04 INFO  recruitmentTest:27 - recruitment page didplied successful
+2019-07-12 11:52:05 INFO  recruitmentTest:29 - Addrecruitment btn successful
+2019-07-12 11:52:05 INFO  recruitmentTest:31 - successful sendkey
+2019-07-12 11:52:05 INFO  recruitmentTest:33 - Successful add button
+2019-07-12 11:52:05 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=recruitmentTest.addRecruitmentType()[pri:1, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-12 11:52:06 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:52:06 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:52:06 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:52:12 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:52:12 INFO  TestBase:53 - Test name: editBtn
+2019-07-12 11:52:12 INFO  recruitmentTest:46 - DashBoardPage is menu CLick
+2019-07-12 11:52:13 INFO  recruitmentTest:50 - successful click recruitment menu
+2019-07-12 11:52:13 INFO  recruitmentTest:52 - recruitment page didplied successful
+2019-07-12 11:52:13 INFO  recruitmentTest:55 - Click edit recruitment
+2019-07-12 11:52:13 INFO  recruitmentTest:57 - Successful clear
+2019-07-12 11:52:13 INFO  recruitmentTest:59 - Successful sendkey
+2019-07-12 11:52:14 INFO  recruitmentTest:61 - Successful edit
+2019-07-12 11:52:14 INFO  TestBase:72 - Executed test case name:editBtn Execution Results : [TestResult name=editBtn status=SUCCESS method=recruitmentTest.editBtn()[pri:2, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-12 11:52:14 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:52:14 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:52:14 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:52:21 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:52:21 INFO  TestBase:53 - Test name: DeletBtn
+2019-07-12 11:52:21 INFO  recruitmentTest:75 - DashBoardPage is menu CLick
+2019-07-12 11:52:21 INFO  recruitmentTest:79 - successful recruitment menu
+2019-07-12 11:52:21 INFO  recruitmentTest:81 - recruitment page didplied successful
+2019-07-12 11:52:21 INFO  recruitmentTest:84 - successful Deleted
+2019-07-12 11:52:22 INFO  recruitmentTest:86 - Deleted 
+2019-07-12 11:52:22 INFO  TestBase:72 - Executed test case name:DeletBtn Execution Results : [TestResult name=DeletBtn status=SUCCESS method=recruitmentTest.DeletBtn()[pri:3, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-12 11:52:22 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:52:22 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:52:22 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:52:28 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:52:28 INFO  TestBase:53 - Test name: CloseTest
+2019-07-12 11:52:28 INFO  recruitmentTest:100 - DashBoardPage is menu CLick
+2019-07-12 11:52:29 INFO  recruitmentTest:104 - successful recruitment menu
+2019-07-12 11:52:29 INFO  recruitmentTest:106 - recruitment page didplied successful
+2019-07-12 11:52:29 INFO  recruitmentTest:108 - Addrecruitment btn successful
+2019-07-12 11:52:29 INFO  recruitmentTest:110 - successful sendkey
+2019-07-12 11:52:29 INFO  recruitmentTest:112 - successful close btn
+2019-07-12 11:52:29 INFO  TestBase:72 - Executed test case name:CloseTest Execution Results : [TestResult name=CloseTest status=SUCCESS method=recruitmentTest.CloseTest()[pri:4, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@6321e813] output={null}]
+2019-07-12 11:52:30 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:52:30 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:54:39 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:54:46 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:54:46 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-12 11:54:46 INFO  recruitmentTest:21 - DashBoardPage is menu CLick
+2019-07-12 11:54:46 INFO  recruitmentTest:25 - successful recruitment menu
+2019-07-12 11:54:46 INFO  recruitmentTest:27 - recruitment page didplied successful
+2019-07-12 11:54:47 INFO  recruitmentTest:29 - Addrecruitment btn successful
+2019-07-12 11:54:47 INFO  recruitmentTest:31 - successful sendkey
+2019-07-12 11:54:47 INFO  recruitmentTest:33 - Successful add button
+2019-07-12 11:54:47 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=recruitmentTest.addRecruitmentType()[pri:1, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@3b084709] output={null}]
+2019-07-12 11:54:48 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:54:48 INFO  TestBase:65 - Browser Closed
+2019-07-12 11:55:37 INFO  TestBase:36 - Initiate Browser
+2019-07-12 11:55:44 INFO  TestBase:42 - Browser Initiated
+2019-07-12 11:55:44 INFO  TestBase:53 - Test name: addRecruitmentType
+2019-07-12 11:55:45 INFO  recruitmentTest:21 - DashBoardPage is menu CLick
+2019-07-12 11:55:45 INFO  recruitmentTest:25 - successful recruitment menu
+2019-07-12 11:55:45 INFO  recruitmentTest:27 - recruitment page didplied successful
+2019-07-12 11:55:45 INFO  recruitmentTest:29 - Addrecruitment btn successful
+2019-07-12 11:55:45 INFO  recruitmentTest:31 - successful sendkey
+2019-07-12 11:55:46 INFO  recruitmentTest:33 - Successful add button
+2019-07-12 11:55:46 INFO  TestBase:72 - Executed test case name:addRecruitmentType Execution Results : [TestResult name=addRecruitmentType status=SUCCESS method=recruitmentTest.addRecruitmentType()[pri:1, instance:com.sgic.automation.leavesystem.tests.recruitment.recruitmentTest@22a67b4] output={null}]
+2019-07-12 11:55:46 INFO  TestBase:63 - Closing Browser
+2019-07-12 11:55:46 INFO  TestBase:65 - Browser Closed
